@@ -8,3 +8,4 @@ Test 3
 Test Web hook hit
 Test Web hook on commit 
 Test git pull automation script
+2nd test git pull automation script
